@@ -1,0 +1,34 @@
+
+@media (min-width: 768px) {
+  .container-fluid {
+    width: 830px;
+  }
+}
+
+body {
+  background-color:#D5D6DD;
+}
+
+.container-fluid {
+  padding-right: 2%;
+  padding-left: 2%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2%;
+} 
+.photo-box{
+  border-style:solid;
+  border-color:black;
+  border-radius: 5px;
+  text-align:center;
+  border-width:1px;
+  background-color:#D5D6DD;
+  margin:80px 100px 80px 100px;
+  padding:5px;
+  }
+  
+  .text-box{
+  margin: 20px 150px 20px 150px;
+  padding:5px;
+  }
+ 
